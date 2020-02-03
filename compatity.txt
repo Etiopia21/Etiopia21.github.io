@@ -6,3 +6,27 @@ vn.gsm.tage-Etiopia
 vn.gsm.tage-Etiopia 
 vn.gsm.tage-Etiopia 
 com.alexzielenski.zeppelin-Etiopia 10
+cn.tinyapps.respringassistant-Etiopia 5.1.1~13.2.3
+com.aidoo.memsearch-Etiopia 8 ~ 11.X
+com.anemonetheming.anemone-Etiopia 7 ~ 11
+com.arab-cydia.liberty-Etiopia 10.0 ~ 12.1.2
+com.arab-cydia.opennotifier10-Etiopia 10
+com.bytafont.bytafont3-Etiopia 10
+com.chikuwa.earphonestatusbar-Etiopia 10
+com.cydiageek.gorgone-Etiopia 10
+com.fahlnbg.appcheats-Etiopia 10
+com.hackyouriphone.ccrecorder-Etiopia 10
+com.hackyouriphone.fiona-Etiopia 10
+com.hackyouriphone.smarttap-Etiopia 10
+com.hackyouriphone.wifibooster-Etiopia 10
+com.ikilledappl3.ccwallcustomizer-Etiopia 10
+com.ikilledappl3.ncwallcustomizer-Etiopia 10
+com.kstreich-dev.3gunrestrictor5-Etiopia 10
+com.lovejb.flex3-32b-Etiopia 10
+com.lovejb.slidetounlock10-Etiopia 10
+com.midkin.byebyehud-Etiopia 10
+com.nnfyrbsnss.applocker-Etiopia 10
+com.noeliel.statuspeek2-Etiopia 10
+com.officialscheduler.mterminal-Etiopia 10
+com.ouraigua.audicy-Etiopia 10
+com.pw5a29.speedintensifier-Etiopia 10

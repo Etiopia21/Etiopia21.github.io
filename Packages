@@ -1,3 +1,47 @@
+Package: cn.tinyapps.respringassistant-Etiopia
+Section: Tweaks
+Installed-Size: 8112
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.5
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.tinyapps.respringassistant-Etiopia_1.5_iphoneos-arm.deb
+Size: 3379762
+MD5sum: 00422fef9e209f031d18e7c5f61f46a0
+SHA1: 7c40257e3941379afc40faa58ee1839d7c2c1d94
+SHA256: 848e16c16200988fd9fa7c2bf8014c02f2de0816e775a7bfc269b2e9ec625cb7
+Description: Restart your SpringBoard QUICKLY, Refresh App Icons EASILY, Restore network
+Author: Tinyapps.cn <tinyapps@qq.com>
+Name: Respring Assistant - Etiopia
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respringassistantDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respringassistantDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: shengwen
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Applications/Rehosts.app/Icon.png
+
+Package: com.aidoo.memsearch-Etiopia
+Section: Utilities
+Installed-Size: 10613
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.5
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.aidoo.memsearch-Etiopia_1.5_iphoneos-arm.deb
+Size: 3999070
+MD5sum: faf295e0730f7fa3a248aa6f3da0e719
+SHA1: f53e30782ed6043a5402971af5e74eb54411d9d8
+SHA256: 52d93ce9cd5a793564d73b77aedcee9801f79fbc7569ab7172efe22895201574
+Description: Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Name: GameGem - Etiopia
+dev: aidoo
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
 Package: com.alexzielenski.zeppelin-Etiopia
 Priority: extra
 Section: Tweaks
@@ -17,6 +61,473 @@ Author: Alex Zielenski <support@alexzielenski.com>
 Depiction: http://modmyi.com/info/zeppelin.d.php
 Homepage: http://modmyi.com/info/zeppelin.php
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.anemonetheming.anemone-Etiopia
+Priority: optional
+Section: Tweaks
+Installed-Size: 8112
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 2.1.8-2
+Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
+Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Filename: ./debs/com.anemonetheming.anemone-Etiopia_2.1.8-2_iphoneos-arm.deb
+Size: 4038108
+MD5sum: 03c9e01d656e3d88de3aafe67999df2f
+SHA1: ad83925cce7a35247d6d2781655641fe726402bf
+SHA256: 3188b8d0c3a780a25747b9982108f0fbfb4943ccbca9e7bc6faa2ed6044c2a1a
+Description: An awesome theme manager!
+Name: Anemone - Etiopia
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+dev: anemonetheming
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/Anemone.app/icon.png
+
+Package: com.arab-cydia.liberty-Etiopia
+Section: Supports IOS12.x
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Architecture: iphoneos-arm
+Version: 0.2.10-1
+Depends: mobilesubstrate, preferenceloader, applist, firmware (<< 11.0)
+Filename: ./debs/com.arab-cydia.liberty_0.2.deb
+Size: 78494
+MD5sum: ea23baaee9a2358ccfab591fc9673f90
+SHA1: 9bab11911f281333210b68e298ea5a7139ad42ac
+SHA256: 6ba1a14bd4be9839851f60cbf8d624fb47636b3cecc72454211b571cb0150fdb
+Description: اداه رائعة لتخطي تعرف التطبيقات على وجود جيلبريك بالجهاز وتشغيلها مثل تطبيقات البنوك بعد تثبيت الاداه يمكنك تفعيل تخطي تعرف تطبيق على وجود جيلبريك من اعدادات الاداه تعنل بشكل جيد على الاصدار 11 وما قبل
+Name: Liberty - Etiopia
+Author: Ryley Angus
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Depiction: https://etiopia21.github.io/description.html?goto=com.arab-cydia.liberty-Etiopia
+Homepage: https://etiopia21.github.io/
+
+Package: com.arab-cydia.opennotifier10-Etiopia
+Section: Tweak_
+Installed-Size: 1423
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Architecture: iphoneos-arm
+Version: 2.5.0~beta8-1
+Provides: com.n00neimp0rtant.opennotifier, net.tateu.opennotifier
+Depends: firmware (>=10.0), mobilesubstrate, libmoorecon | libstatusbar, preferenceloader, applist
+Conflicts: com.n00neimp0rtant.opennotifier, net.tateu.opennotifier, net.tateu.opennotifierbeta, net.tateu.opennotifier9
+Filename: ./debs/com.arab-cydia.opennotifier10_2.5.deb
+Size: 282144
+MD5sum: b09ec2153321628820f5b85216cd3b3f
+SHA1: 8b0afb326be4a486f8c57fa07262b271e45b7a12
+SHA256: bf44eb3703ad23d892fbd0b3b773afcdea25e05c5c351323b6e5c75b60ba6546
+Description: عرض الاشعارات في البار العلوي على شكل التطبيقات بشكل جميل جدا.
+Name: OpenNotifier10 - Etiopia
+Author: tateu (based on n00neimp0rtant) <tateu@tateu.net>
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+Depiction: https://etiopia21.github.io/description.html?goto=com.arab-cydia.opennotifier10-Etiopia
+Homepage: https://etiopia21.github.io/
+
+Package: com.bytafont.bytafont3-Etiopia
+Section: System
+Maintainer: BytaFont.com <info@bytafont.com>
+Architecture: iphoneos-arm
+Version: 3.1.5
+Depends: firmware (>= 9),unzip,mobilesubstrate
+Filename: ./debs/com.bytafont.bytafont3-Etiopia_3.1.5_iphoneos-arm.deb
+Size: 2002666
+MD5sum: d0a6ba02dd4adb8043a22b740c568aa0
+SHA1: f4eefdd3a15aabda5b18a65b871b25799ddd7722
+SHA256: 113288b46015b3fa2473ed93409c5440741295b853d2f048c4ba50a863b26142
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Name: BytaFont 3 - Etiopia
+Depiction: http://repo.bytafont.com/bytafont_depiction
+Author: BytaFont.com <info@bytafont.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.chikuwa.earphonestatusbar-Etiopia
+Section: Tweaks
+Installed-Size: 281
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 0.0.5
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader, libstatusbar | org.thebigboss.libstatus9, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.chikuwa.earphonestatusbar-Etiopia_0.0.5_iphoneos-arm.deb
+Size: 21202
+MD5sum: 4f8161f300fb2fa2fe36248852abd4d8
+SHA1: b349758e25099bd27cce41904a91490f47ab3399
+SHA256: d95bbd8b93841744a09384b99ff6bd5a1ba93e21738269cc988136cf362c74dd
+Description: statusbar icon when headphones plugged-in
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=earphonestatusbarDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=earphonestatusbarDp
+Author: Chikuwa <chikuwajb@gmail.com>
+Name: EarphoneStatusBar - Etiopia
+dev: chikuwajb
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/EarphoneStatusBar.bundle/EarphoneStatusBar@2x.png
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
+Package: com.cydiageek.gorgone-Etiopia
+Priority: optional
+Section: Tweaks
+Installed-Size: 404
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.6.2
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, applist
+Filename: ./debs/com.cydiageek.gorgone-Etiopia_1.6.2_iphoneos-arm.deb
+Size: 78734
+MD5sum: f049f97d2ee312d5a9a509aa130b3a5b
+SHA1: ac8d004042a5c45d41f9aa237480cc08993f316c
+SHA256: 03a84858a2df0bdccb0ff881482ed36c9d2a7409e46e49a56a43280c11399252
+Description: Enable SplitView and SlideOver Features!
+Name: Gorgone - Etiopia
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gorgoneDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gorgoneDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Gorgone.bundle/Gorgone@2x.png
+
+Package: com.fahlnbg.appcheats-Etiopia
+Section: Tweaks
+Installed-Size: 512
+Maintainer: @fahlnbg <fahlnbg@gmail.com>
+Architecture: iphoneos-arm
+Version: 2.2
+Depends: mobilesubstrate, com.thuthuatjb.iconrepo
+Filename: ./debs/com.fahlnbg.appcheats_2.deb
+Size: 82820
+MD5sum: 4070619f8a97af9179639a88afaebd82
+SHA1: 38817d99f1bacf2d3a7636cd52083d9894becbee
+SHA256: 18a83c8e2544e9089fc8f0ce9f37a9b645295f9a80946373daeeaa5f55579370
+Description: Thêm một số tính năng hữu ích cho các ứng dụng
+SileoDepiction: https://repo.thuthuatjb.com/sileo/com.fahlnbg.appcheats.json
+Name: App Cheats - Etiopia
+Author: @fahlnbg <fahlnbg@gmail.com>
+Icon: file:///Library/IconRepo/tinhchinh.png
+Tag: purpose::extension
+Depiction: https://repo.thuthuatjb.com/index.php?pid=392
+Homepage: https://etiopia21.github.io/
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
+Package: com.hackyouriphone.ccrecorder-Etiopia
+Section: HYI - Tweaks
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Architecture: iphoneos-arm
+Version: 1.0k
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.hackyouriphone.ccrecorder-Etiopia_1.0k_iphoneos-arm.deb
+Size: 108434
+MD5sum: 8ab7de4f436c939867c4f6d664d1656a
+SHA1: 5e6641fd351a49f62339d03aaae803dbaec3ebeb
+SHA256: bea360bd74a9bca6fae92211b427764d8bc3dd612da57ae9a5e67a40fe50d91d
+Description: Record Your Screen From The Control Center
+Name: CCRecorder (iOS 10) - Etiopia
+Author: ijapija00 <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ccrecorder
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ccrecorder
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
+Package: com.hackyouriphone.fiona-Etiopia
+Section: HYI - Tweaks
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.hackyouriphone.fiona-Etiopia_0.1_iphoneos-arm.deb
+Size: 48980
+MD5sum: 38427b9c6639146bf66f6e2f2d172405
+SHA1: 9c17a9734ba12544ac2320b35426adc61734c0a7
+SHA256: c0ee670dd2f4cc0081a95a384ce64e8c97825949ec2b88afa9779c58d2f4f35c
+Description: Keep WiFi Always Connected
+Name: Fiona - Etiopia
+Author: julioverne <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=fiona
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=fiona
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
+Package: com.hackyouriphone.smarttap-Etiopia
+Section: HYI - Tweaks
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Architecture: iphoneos-arm
+Version: 0.8-350k
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/com.hackyouriphone.smarttap-Etiopia_0.8-350k_iphoneos-arm.deb
+Size: 107844
+MD5sum: cdff762330e4103b44c77fc5644f7635
+SHA1: 92262862e6603ee1488299c138a4ead847197eb1
+SHA256: 633cd961ae2a7ed5e1d6d562f30a4031e6a2770c645317bbcb96ad530d28b69f
+Description: Turn on the screen by tapping it!
+Name: SmartTap - Etiopia
+Author: Elias Limneos <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=smarttap
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=smarttap
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
+Package: com.hackyouriphone.wifibooster-Etiopia
+Section: HYI - Tweaks
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Architecture: iphoneos-arm
+Version: 2.0.2
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Filename: ./debs/com.hackyouriphone.wifibooster-Etiopia_2.0.2_iphoneos-arm.deb
+Size: 71760
+MD5sum: 4d7c31aeec1ccf9e65e439a989bace7f
+SHA1: 53e9a133dd89e01c02c98d0556bbd1f5dd56c47a
+SHA256: 949d7422d086506c3c9644debec660c93a3f55edac70298157dc8ef271a8b78b
+Description: networks list shows all wifi access points
+Name: WiFi Booster - Etiopia
+Author: Malcolm Hall <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=wifibooster
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=wifibooster
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
+Package: com.ikilledappl3.ccwallcustomizer-Etiopia
+Priority: optional
+Section: Tweaks
+Installed-Size: 2872
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.2.2-1
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.ikilledappl3.ccwallcustomizer-Etiopia_1.2.2-1_iphoneos-arm.deb
+Size: 1605800
+MD5sum: cf8aa27c8fd98435cb6ff7683bb9d550
+SHA1: fb6fe068cff8cfc33ffb330f8fc969b4726bf7be
+SHA256: e590514e474ffc328692e2c33dc82feaaf921ef59b484d4140b71cc1cce67d9b
+Description: change the background of the control center on iOS 10+
+Name: CCWallCustomizer - Etiopia
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccwallcustomizerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccwallcustomizerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Tag: purpose::extension, compatible::ios10
+dev: ikilledappl3
+Icon: file:///Library/PreferenceBundles/ccwallcustomizer.bundle/CCWallCustomizer@2x.png
+
+Package: com.ikilledappl3.ncwallcustomizer-Etiopia
+Priority: optional
+Section: Tweaks
+Installed-Size: 1990
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.1-3
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.ikilledappl3.ncwallcustomizer-Etiopia_1.1-3_iphoneos-arm.deb
+Size: 717696
+MD5sum: 703c8cd02a51c386b4e11bd17dc606d6
+SHA1: d247170ffb7a57c413b4df5608302f86cab5ab0f
+SHA256: a510da02e98817788148e5df3f054552f4bbae76a689a6d1503e17394ec404ba
+Description: Change background of Notification Center on iOS 10+
+Name: NCWallCustomizer - Etiopia
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ncwallcustomizerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ncwallcustomizerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Tag: purpose::extension, compatible::ios10
+dev: ikilledappl3
+Icon: file:///Library/PreferenceBundles/NCWallCustomizer.bundle/NCWallCustomizer@2x.png
+
+Package: com.kstreich-dev.3gunrestrictor5-Etiopia
+Section: Tweaks
+Installed-Size: 5599
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 5.9.10
+Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.12), com.rpetrich.rocketbootstrap (>=1.0.5)
+Pre-Depends: firmware (>= 4.0)
+Conflicts: com.crashx.unrestrictor3g
+Filename: ./debs/com.kstreich-dev.3gunrestrictor5-Etiopia_5.9.10_iphoneos-arm.deb
+Size: 3055312
+MD5sum: 8727a15f14be65713b49c910e753c7a4
+SHA1: 079c3787dff524cfa9dd3935738cdad325718171
+SHA256: 6d7f4e91b6ea6ff1b4053ca54f7d3e7fcb90f10109e1b5407d0ed93639dfac33
+Description: Enables WiFi-Only features on 3G & LTE
+	such as large App Store downloads, HD-Quality YouTube videos, FaceTime, and more.
+Name: 3G Unrestrictor 5 (iOS 10/9/8/7) - Etiopia
+Depiction: http://depiction.3gunrestrictor.com/3GUnrestrictor5/
+Homepage: http://depiction.3gunrestrictor.com/3GUnrestrictor5/
+Author: Kim Streich <support@3gunrestrictor.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: crashx
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Applications/Unrestrictor3G.app/Icon.png
+
+Package: com.lovejb.flex3-32b-Etiopia
+Section: Tweaks
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Architecture: iphoneos-arm
+Version: 3~EarlyAccess3
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap (>= 1.0)
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, flex3, flex3beta
+Filename: ./debs/com.lovejb.flex3-32b-Etiopia_3~EarlyAccess3_iphoneos-arm.deb
+Size: 34533308
+MD5sum: 1f752ed04589658213ce1305716e8c5d
+SHA1: 7cbb04d7dbe0b7541dd10f4cf22a25d6480824f9
+SHA256: fd1171b3377e56dec289285e34a91509be00b0d52c7204b7b53db8eed338a0b7
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Name: Flex 3 (iOS10.3.x) 32bit - Etiopia
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.flex3-32b
+Author: John Coates <john@johncoates.me>
+Icon: file:///Applications/Flex.app/AppIcon29x29@2x.png
+Homepage: https://etiopia21.github.io/
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
+Package: com.lovejb.slidetounlock10-Etiopia
+Section: Tweaks
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.2
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 11.0)
+Filename: ./debs/com.lovejb.slidetounlock10-Etiopia_0.0.2_iphoneos-arm.deb
+Size: 5896
+MD5sum: 39148ed8ef48fbc93bc17fc272665b9e
+SHA1: 53fe398e320c1ae8b98458181fd8ecfa62872e4d
+SHA256: 6306d17f98b6be5fb0bea2f4d224f0ef5cf3b514c7049befcf2d18082043f581
+Description: Bring back Slide to Unlock to iOS 10. This tweak brings up the passcode view when you slide to the right (normally to show Today view), or unlocks your device if you have no passcode set.
+Name: SlideToUnlock10 - LoveJB - Etiopia
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.slidetounlock10
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Homepage: https://etiopia21.github.io/
+Sponsor: Lance2691 <https://etiopia21.github.io>
+
+Package: com.midkin.byebyehud-Etiopia
+Section: Tweaks
+Installed-Size: 380
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.1.3
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.midkin.smartvolumecontrol
+Filename: ./debs/com.midkin.byebyehud-Etiopia_1.1.3_iphoneos-arm.deb
+Size: 73740
+MD5sum: 68bbba62cd2dde618a8218c56f9488b3
+SHA1: ecd0e7976720fcd08c8306994b8fc82dc874fe8b
+SHA256: bdc4e7cd8caaed00011e86aa3daea21c608d7dc425fcc75166ea723a7ddb49b4
+Description: Get rid of the annoying stock Volume HUD!
+Author: midkin <midkin@hotmail.com>
+Name: ByeByeHUD - Etiopia
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byebyehudDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byebyehudDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: midkin
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/ByeByeHUD.bundle/BBH@2x.png
+
+Package: com.nnfyrbsnss.applocker-Etiopia
+Section: Tweaks
+Installed-Size: 648
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 2.5-1
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist (>= 1.4)
+Filename: ./debs/com.nnfyrbsnss.applocker-Etiopia_2.5-1_iphoneos-arm.deb
+Size: 156832
+MD5sum: aaa063a83d46a875a615ac22689bf87b
+SHA1: 28eab30ac8588ce44b8052dae3e495213c27b8a2
+SHA256: 82f104282b9038b57969f66e9ee501d8ae06a0e10f63ee829d4dfec91472a04e
+Description: Simple and cheap app-locking solution!
+Author: Ori Kadosh <support@orikad.com>
+Name: Applocker - Etiopia
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applockerDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applockerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: orikad
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/applockerPrefBundle.bundle/applocker@2x.png
+
+Package: com.noeliel.statuspeek2-Etiopia
+Section: Tweaks
+Installed-Size: 299
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 2.0b
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.noeliel.statuspeek
+Filename: ./debs/com.noeliel.statuspeek2-Etiopia_2.0b_iphoneos-arm.deb
+Size: 46560
+MD5sum: f03ddf948c792324cf868dfe35ef95a8
+SHA1: d5f4f43612aa4e77ebb2edca3ec397722507cd97
+SHA256: faf132bde2b2ec4fb0a2c151ca11bbcbffd5d019e6779016e80995182c86e42c
+Description: NC grabber as it was meant to be, round 2.
+Author: Noeliel <noelieldev@gmail.com>
+Name: StatusPeek 2 (iOS 10) - Etiopia
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statuspeek2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statuspeek2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: noeliel
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Icon: file:///Library/PreferenceBundles/StatusPeek2Prefs.bundle/StatusPeek2Prefs@2x.png
+
+Package: com.officialscheduler.mterminal-Etiopia
+Section: Utilities
+Installed-Size: 325
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.4-5
+Depends: firmware (>= 4.0), system-cmds
+Filename: ./debs/com.officialscheduler.mterminal-Etiopia_1.4-5_iphoneos-arm.deb
+Size: 129066
+MD5sum: d5543126b9f8a374f5da6bcd751400c9
+SHA1: aaf80f004015c2ca38f19101d143e53da0412169
+SHA256: 0838c8e91e6421acad028bd45b4310c03c3220a0016bda95867869c2897058ff
+Description: A MobileTerminal fork
+Name: MTerminal - Etiopia
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: lordscotland <admin@officialscheduler.com>
+dev: officialscheduler
+Icon: file:///Applications/MTerminal.app/Icon.png
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+
+Package: com.ouraigua.audicy-Etiopia
+Section: Tweaks
+Installed-Size: 41610
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.0.6
+Replaces: com.ouraigua.jodownloader
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.ouraigua.jodebox (>= 3.0.2)
+Conflicts: net.howett.safaridownloader, com.ouraigua.safaridownloader
+Filename: ./debs/com.ouraigua.audicy-Etiopia_1.0.6_iphoneos-arm.deb
+Size: 29707212
+MD5sum: efca2030861c9b562718313807ec9ff0
+SHA1: a1add2ed8db2a09b7c9643f6ac2efadf699a086a
+SHA256: 33c88a40ce76ec48c661cff930401d9baa5a36a805d0a655ecae41b7f1877176
+Description: Import audio/video to Music app, Videos app, Ringtones, Podcasts, Camera Roll...
+Author: Jalal Ouraigua <ouraigua@me.com>
+Name: Audicy - Etiopia
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audicyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ouraigua
+Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Applications/Audicy.app/CydiaIcon.png
+
+Package: com.pw5a29.speedintensifier-Etiopia
+Section: Tweaks
+Installed-Size: 435
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 10.1-1
+Depends: mobilesubstrate, firmware (>= 6.0), preferenceloader, applist
+Filename: ./debs/com.pw5a29.speedintensifier-Etiopia_10.1-1_iphoneos-arm.deb
+Size: 59828
+MD5sum: 67ce4290ff83362a2f973f998a06fb70
+SHA1: ae94b429ade4cb6f93f32befeb719eb3a286059b
+SHA256: ef251d0259c08ca3ac83a2c5447aae6c1edc1c4b6ad7b4e3a64b2b3fe245746f
+Description: Tăng tốc hoạt cảnh iOS
+Author: pw5a29 <pw5a29@gmail.com>
+Name: Speed Intensifier - Etiopia
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=speedintensifierDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=speedintensifierDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: pw5a29
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/SIPrefs.bundle/speed@2x.png
 
 Package: vn.gsm.tage-Etiopia
 Section: !CydiaVn-Tools
