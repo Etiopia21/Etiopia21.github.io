@@ -1,0 +1,11 @@
+Origin: Vuong Nguyen (beta-user)
+Label: etiopia (V. Nguyen)
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Source Cydia Repo by Etiopia (Vuong Nguyen)
+MD5Sum:
+ 084e179d2ce06d12c0b2981b2475de8c 979 Packages
+ 9ccf2a5910479fbfcc3cdede67cf487c 654 Packages.bz2
