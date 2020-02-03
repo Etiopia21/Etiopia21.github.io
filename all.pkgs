@@ -1,3 +1,4 @@
 [
+{"Name": "Zeppelin - Etiopia", "Version": "2.1.0-12", "Section": "Tweaks", "Package": "com.alexzielenski.zeppelin-Etiopia", "Author": "Alex Zielenski <support@alexzielenski.com>", "Depends": "firmware (>= 4.2), mobilesubstrate, preferenceloader", "Descript": "Replaces carrier text with an image!", "Arch": "iphoneos-arm", "Size": "954360", "Time": "1580711014000"},
 {"Name": "Tage - Etiopia", "Version": "1.2.2-1k", "Section": "!CydiaVn-Tools", "Package": "vn.gsm.tage-Etiopia", "Author": "Ma Jun", "Depends": "mobilesubstrate, preferenceloader, firmware (>= 7.0)", "Descript": "Awesome multitasking gestures and more.", "Arch": "iphoneos-arm", "Size": "600888", "Time": "1580708625000"},
 {}]

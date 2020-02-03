@@ -1,3 +1,23 @@
+Package: com.alexzielenski.zeppelin-Etiopia
+Priority: extra
+Section: Tweaks
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Architecture: iphoneos-arm
+Version: 2.1.0-12
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.alexzielenski.zeppelin-Etiopia_2.1.0-12_iphoneos-arm.deb
+Size: 954360
+MD5sum: c53456e9cd217b2358e1f45348f6b8ac
+SHA1: 90424e7d2ac2b251720c5ae85c769f2f6723f53b
+SHA256: 349f9d32975c2b618e781bc9c0b991f04aec9a469d9d8f028f2cecdd0ac45f05
+Description: Replaces carrier text with an image!
+Name: Zeppelin - Etiopia
+Icon: http://i.imgur.com/tvLxnB5.png
+Author: Alex Zielenski <support@alexzielenski.com>
+Depiction: http://modmyi.com/info/zeppelin.d.php
+Homepage: http://modmyi.com/info/zeppelin.php
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: vn.gsm.tage-Etiopia
 Section: !CydiaVn-Tools
 Maintainer: Cydia.vn <repo@cydia.vn>
