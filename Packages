@@ -1,22 +1,19 @@
-Package: org.thebigboss.fastloading
-Section: Tweaks
-Installed-Size: 206
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Package: vn.gsm.tage-Etiopia
+Section: !CydiaVn-Tools
+Maintainer: Cydia.vn <repo@cydia.vn>
 Architecture: iphoneos-arm
-Version: 1.0-3
-Depends: mobilesubstrate, firmware (>= 4.0), cydia (>= 1.1.19), preferenceloader
-Filename: ./debs/org.thebigboss.fastloading_1.0-3_iphoneos-arm.deb
-Size: 16498
-MD5sum: 0a7df3649d13513ec7d8069be957f851
-SHA1: c6047098abbcfdb8e022f5d4c2253c970178c8f5
-SHA256: 98ce4e580bc89b70479bc44f799eb3540829f28c67e4a56ac40d4e9f717cb12c
-Description: disables UI cache refresh in Cydia
-Author: PoomSmart <poomst@hotmail.com>
-Name: FastLoading
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: poomst
-Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
-Icon: file:///Library/PreferenceLoader/Preferences/FastLoading/FL@2x.png
+Version: 1.2.2-1k
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: ./debs/vn.gsm.tage-Etiopia_1.2.2-1k_iphoneos-arm.deb
+Size: 600888
+MD5sum: 48ea7b374f8b867d3357a229a7eb3bb0
+SHA1: 354804218dfc6f535ecbd0c6ba4454c3e77b7ca2
+SHA256: 259e81a874dd0990e78f1209acd04338114249c44d3693a41dd550fd9ccbec99
+Description: Awesome multitasking gestures and more.
+Name: Tage - Etiopia
+Author: Ma Jun
+Depiction: http://cydia.vn/depic/t5519/
+Homepage: http://cydia.vn/
+Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
+Sponsor: Lance2691 <https://etiopia21.github.io>
 

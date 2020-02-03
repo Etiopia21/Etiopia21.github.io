@@ -1,4 +1,3 @@
 [
-{"Name": "FastLoading", "Version": "1.0-3", "Section": "Tweaks", "Package": "org.thebigboss.fastloading", "Author": "PoomSmart <poomst@hotmail.com>", "Depends": "mobilesubstrate, firmware (>= 4.0), cydia (>= 1.1.19), preferenceloader", "Descript": "disables UI cache refresh in Cydia", "Arch": "iphoneos-arm", "Size": "16498", "Time": "1574861392000"},
-{}]
+{"Name": "Tage - Etiopia", "Version": "1.2.2-1k", "Section": "!CydiaVn-Tools", "Package": "vn.gsm.tage-Etiopia", "Author": "Ma Jun", "Depends": "mobilesubstrate, preferenceloader, firmware (>= 7.0)", "Descript": "Awesome multitasking gestures and more.", "Arch": "iphoneos-arm", "Size": "600888", "Time": "1580708625000"},
 {}]
